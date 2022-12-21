@@ -11,7 +11,7 @@ html,body {
 }
 main{
     flex:1;
-    background:url("./image/city.jpg") center top/cover no-repeat;
+    background:url("../image/city.jpg") center top/cover no-repeat;
     min-height:720px;
   }
 ul {
@@ -47,7 +47,7 @@ ul {
     top:50%;
     padding:0;
     margin-bottom:0;
-    background-image:url("./image/coolwood.png");
+    background-image:url("../image/coolwood.png");
     color:white;
   }
   .theme p {
