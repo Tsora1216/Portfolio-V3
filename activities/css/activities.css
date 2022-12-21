@@ -177,7 +177,7 @@ a:hover, a:active, a:focus {
 .timeline-img-hitachi {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/hitachi.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/hitachi.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -193,7 +193,7 @@ a:hover, a:active, a:focus {
 .timeline-img-LINE {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/line.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/line.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -209,7 +209,7 @@ a:hover, a:active, a:focus {
 .timeline-img-coconala {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/coconala.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/coconala.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -225,7 +225,7 @@ a:hover, a:active, a:focus {
 .timeline-img-nttdocomo {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/nttdocomo.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/nttdocomo.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -241,7 +241,7 @@ a:hover, a:active, a:focus {
 .timeline-img-benesse {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/benesse.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/benesse.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -257,7 +257,7 @@ a:hover, a:active, a:focus {
 .timeline-img-nttdata {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/nttdata.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/nttdata.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -273,7 +273,7 @@ a:hover, a:active, a:focus {
 .timeline-img-fujitsu {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/fujitsu.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/fujitsu.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -289,7 +289,7 @@ a:hover, a:active, a:focus {
 .timeline-img-asahi {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/asahi.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/asahi.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -305,7 +305,7 @@ a:hover, a:active, a:focus {
 .timeline-img-trendmicro {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/trendmicro.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/trendmicro.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -321,7 +321,7 @@ a:hover, a:active, a:focus {
 .timeline-img-capcom {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/capcom.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/capcom.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -337,7 +337,7 @@ a:hover, a:active, a:focus {
 .timeline-img-recruit {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/recruit.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/recruit.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
@@ -353,7 +353,7 @@ a:hover, a:active, a:focus {
 .timeline-img-kddi {
   position: relative;
   margin-bottom: 20px;
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/company/kddi.JPG") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../image/kddi.JPG") center center no-repeat;
   background-size: cover;
   height: 250px;
   width: 100%;
